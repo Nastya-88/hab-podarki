@@ -576,7 +576,7 @@
   .swiper-container-rtl .swiper-button-prev2:after,
   .swiper-container-rtl .swiper-button-prev:after {
     content: '';
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/School_sale../img/next.svg);
+    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/School_sale/img/next.svg);
     height: 48px;
     width: 48px;
   }
@@ -585,7 +585,7 @@
   .swiper-container-rtl .swiper-button-next:after,
   .swiper-container-rtl .swiper-button-next:after {
     content: '';
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/School_sale../img/prev.svg);
+    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/School_sale/img/prev.svg);
     height: 48px;
     width: 48px;
   }
@@ -691,36 +691,7 @@
     display: flex;
     justify-content: center;
   }
-  .t-winner__middle--one {
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//middle--one.png) no-repeat center;
-    background-size: cover;
-    height: 210px;
-    border-radius: 3.05819px;
-  }
-  .t-winner__middle--two {
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//middle--two.png) no-repeat center;
-    background-size: cover;
-    height: 210px;
-    border-radius: 3.05819px;
-  }
-  .t-winner__middle--three {
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//middle--three.png) no-repeat center;
-    background-size: cover;
-    height: 210px;
-    border-radius: 3.05819px;
-  }
-  .t-winner__middle--fourth {
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//middle--fourth.png) no-repeat center;
-    background-size: cover;
-    height: 210px;
-    border-radius: 3.05819px;
-  }
-  .t-winner__middle--five {
-    background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//middle--five.png) no-repeat center;
-    background-size: cover;
-    height: 210px;
-    border-radius: 3.05819px;
-  }
+ 
   .t-winner__top {
     background: #333333;
     border-radius: 4px;
@@ -1030,7 +1001,7 @@
   }
     .mySwiper3 .swiper-button-next:after, .swiper-container-rtl .mySwiper3 .swiper-button-prev:after {
       content: '';
-      background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021../img/arrow_right.png) no-repeat;
+      background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021/img/arrow_right.png) no-repeat;
       box-shadow: 0px 1px 20px rgb(4 6 28 / 10%);
       width: 24px;
       height: 24px;
@@ -1038,7 +1009,7 @@
     }
     .mySwiper3 .swiper-button-prev:after, .swiper-container-rtl .mySwiper3 .swiper-button-next:after {
       content: '';
-      background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021../img/arrow_left.png) no-repeat;
+      background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021/img/arrow_left.png) no-repeat;
       box-shadow: 0px 1px 20px rgb(4 6 28 / 10%);
       width: 24px;
       height: 24px;
@@ -1447,7 +1418,7 @@
     }
     .bf_product-wrapp.bf_product-wrapp_bg {
       background-color: #2b2b2b;
-      background-image: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021../img/premium.png);
+      background-image: url(//static.mvideo.ru/media/Promotions/Promo_Page/2021/January/Promocatalog2021/Cashback_28.09.2021/img/premium.png);
       background-repeat: no-repeat;
       background-size: 100%;
       background-position: center center;
@@ -3209,10 +3180,7 @@
     .bf_menu-wrapper {
       margin-bottom: 20px;
     }
-    .t-main {
-        background: url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//red-mob.png) no-repeat right top, url(//static.mvideo.ru/media/Promotions/Promo_Page/2022/June/koleso-udachi../img//blue-mob.png) no-repeat right bottom;
-        background-size: contain;
-    }
+   
     .t-steps__wrap {
         flex-direction: column;
         align-items: center;
