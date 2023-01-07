@@ -1,6 +1,6 @@
 .t-timer {
     margin-bottom: 37px;
-    background: #E31235 url(/img/timer1.png) no-repeat;
+    background: #E31235 url(../img/timer1.png) no-repeat;
     background-size: cover;
     background-position: right;
     display: flex;
@@ -37,16 +37,16 @@
   }
   @keyframes headerLane {
     0% {
-        background: #E31235 url(/img/timer1.png) center/cover no-repeat;
+        background: #E31235 url(../img/timer1.png) center/cover no-repeat;
     }
     33% {
-        background: #E31235 url(/img/timer2.png) center/cover no-repeat;
+        background: #E31235 url(../img/timer2.png) center/cover no-repeat;
     }
     66% {
-        background: #E31235 url(/img/timer1.png) center/cover no-repeat;
+        background: #E31235 url(../img/timer1.png) center/cover no-repeat;
     }
     100% {
-        background: #E31235 url(/img/timer2.png) center/cover no-repeat;
+        background: #E31235 url(../img/timer2.png) center/cover no-repeat;
     }
 }
   
@@ -84,7 +84,7 @@
   
   @media (max-width: 1599px) {
     .t-timer {
-      background: #E31235 url(/img/timer1-2.png) no-repeat;
+      background: #E31235 url(../img/timer1-2.png) no-repeat;
       background-size: contain;
       background-position: center center;
       display: flex;
@@ -97,16 +97,16 @@
     }
     @keyframes headerLane {
       0% {
-          background: #E31235 url(/img/timer1-2.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer1-2.png) center/cover no-repeat;
       }
       33% {
-          background: #E31235 url(/img/timer2-2.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer2-2.png) center/cover no-repeat;
       }
       66% {
-          background: #E31235 url(/img/timer1-2.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer1-2.png) center/cover no-repeat;
       }
       100% {
-          background: #E31235 url(/img/timer2-2.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer2-2.png) center/cover no-repeat;
       }
   }
     .t-timer__item {
@@ -189,23 +189,23 @@
   
   @media (max-width: 767px) {
     .t-timer {
-      background: #E31235 url(img/timer1-3.png) no-repeat;
+      background: #E31235 url(../img/timer1-3.png) no-repeat;
       background-size: contain;
       background-position: center center;
       padding-bottom: 250px;
     }
     @keyframes headerLane {
       0% {
-          background: #E31235 url(/img/timer1-3.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer1-3.png) center/cover no-repeat;
       }
       33% {
-          background: #E31235 url(/img/timer2-3.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer2-3.png) center/cover no-repeat;
       }
       66% {
-          background: #E31235 url(/img/timer1-3.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer1-3.png) center/cover no-repeat;
       }
       100% {
-          background: #E31235 url(/img/timer2-3.png) center/cover no-repeat;
+          background: #E31235 url(../img/timer2-3.png) center/cover no-repeat;
       }
   }
     .t-timer__title {
